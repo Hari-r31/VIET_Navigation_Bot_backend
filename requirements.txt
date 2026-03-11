@@ -6,3 +6,4 @@ imageio-ffmpeg
 numpy
 openai-whisper
 vosk
+python-multipart
