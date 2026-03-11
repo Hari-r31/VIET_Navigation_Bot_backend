@@ -1,3 +1,8 @@
 fastapi
 uvicorn[standard]
 gtts
+python-dotenv
+imageio-ffmpeg
+numpy
+openai-whisper
+vosk
